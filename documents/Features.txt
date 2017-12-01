@@ -1,0 +1,20 @@
+system Features:
+-----------------
+
+1- Rechargable Built in battery.
+2- Actuation (Stepper motor).
+3- MCU ARM M0.
+4- Alarm Unit.
+5- User interface (Keypad/Display).
+6- Bluetooth (Optional).
+7- CGM  noninvasive sensor(If it is found/effcient).
+8- Insuline Cartidge Refillable. 
+
+Software:
+----------
+1- Alive supervision (WDT).
+1- Calculate dose over time.
+2- Calculate movement of the Motor.
+3- Monitor time.
+4- Interface with the user for configuration.
+5- Bluetooth communication (optinal).
